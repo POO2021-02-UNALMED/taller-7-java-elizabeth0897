@@ -20,7 +20,7 @@ public class Alfabeto extends Pictograma {
 	}
 	
 	public int cantidadLetras() {
-		return getLetras().length;
+		return letras.length;
 	}
 	
 	public static String[] getLetras() {
