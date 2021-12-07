@@ -12,6 +12,7 @@ public class Tesis extends Escrito {
 		this.idea = idea;
 		this.conclusion = conclusion;
 		this.referencias = referencias;
+		this.argumentos = argumentos;
 		this.interpretacion = interpretacion;
 	}
 
